@@ -1,8 +1,6 @@
 
 body{
-    background-color: hsl(217, 54%, 11%);
-    font-family: 'Outfit';
-    font-weight: 300, 400, 600;
+    background-color: hsl(217, 54%, 11%);   
 }
 
 .container-main{
@@ -52,6 +50,8 @@ body{
     font-weight: bold;
     transition: 0.5s;
     cursor: pointer;
+    font-family: 'Outfit';
+    font-weight: 300, 400, 600;
 }
 
 .container-main #nft-name:hover h1{
@@ -64,6 +64,8 @@ body{
     font-size: 18px;
     color: hsl(215, 51%, 70%);
     margin-bottom: 30px;
+    font-family: 'Outfit';
+    font-weight: 300, 400, 600;
 }
 .destaque {
     color: white;
@@ -78,6 +80,8 @@ body{
 
 .container-main .marks{
     display: flex;
+    font-family: 'Outfit';
+    font-weight: 300, 400, 600;
     
 }
 
@@ -115,6 +119,8 @@ body{
     display: flex;
     gap: 16px;
     align-items: center;
+    font-family: 'Outfit';
+    font-weight: 300, 400, 600;
 }
 
 .container-main #creator img{
@@ -131,7 +137,8 @@ body{
     color: hsl(215, 51%, 70%);
 }
 
-.attribution { font-size: 11px; text-align: center;margin-top: 90px; color: white; }
+.attribution { font-size: 11px; text-align: center;margin-top: 90px; color: white; font-family: 'Outfit';
+    font-weight: 300, 400, 600;}
 .attribution a { color: hsl(178, 100%, 50%); }
 
 @media(max-width: 450px){
