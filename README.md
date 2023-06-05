@@ -1,4 +1,5 @@
-![edit finalsss](https://github.com/KevenGonCabral/NFT-Responsive-card/assets/116415920/5e64f64f-3d6a-4ced-a5a0-3088c5b530fc)
+![edit finalsss](https://github.com/KevenGonCabral/ntf-responsive-card/assets/116415920/516cb36d-7404-4be7-a45a-895c975e14c9)
+
 
 
 # ✨Frontend Mentor - NFT-Responsive-card solution
@@ -9,12 +10,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## 💻 Project
 
-![0010](https://github.com/KevenGonCabral/NFT-Responsive-card/assets/116415920/e44640a1-fb51-4ec0-a091-98ff72c54b59)
+![0010](https://github.com/KevenGonCabral/ntf-responsive-card/assets/116415920/61ebf01c-0d94-45ba-b389-9e90c6443c35)
+
 
 
 ### 🔗 Links
 
-- Live Site URL: [CLICKHERE!]( https://kevengoncabral.github.io/NFT-Responsive-card/)
+- Live Site URL: [CLICKHERE!](https://kevengoncabral.github.io/ntf-responsive-card/)
 
 
 
