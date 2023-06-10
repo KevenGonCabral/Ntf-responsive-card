@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 🔗 Links
 
-- Live Site URL: [CLICKHERE!](https://kevengoncabral.github.io/ntf-responsive-card/)
+- Live Site URL: [CLICKHERE!](https://kevengoncabral.github.io/Ntf-responsive-card/)
 
 
 
